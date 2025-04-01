@@ -1,8 +1,13 @@
-- **문제 설명**:  
-  문제에 대한 설명을 여기에 작성합니다.
+# 저장소 설명
+ - **프로그래머스에서 Sql 문제를 MySql로 풀어본 저장소 입니다.**
 
-- **SQL 쿼리**:
-  ```sql
-  SELECT column_name
-  FROM table_name
-  WHERE condition;
+
+
+  # 문제항목
+- **SELECT**
+
+
+
+
+**참조**
+- https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
